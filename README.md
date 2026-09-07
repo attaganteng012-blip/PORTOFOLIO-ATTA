@@ -38,10 +38,6 @@ I enjoy creating websites, experimenting with new technologies, and turning idea
 
 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-</p>---
-
 🚀 Featured Projects
 
 🌐 Atta Portfolio
