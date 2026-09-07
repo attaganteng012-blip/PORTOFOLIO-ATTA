@@ -2,10 +2,6 @@
 
 💻 Junior Web Developer | Frontend Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Web+Developer;I+love+building+websites;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>---
-
 🚀 About Me
 
 I'm a Software Engineering (RPL) student at SMK PGRI Wlingi who is interested in Web Development, especially Frontend Development.
