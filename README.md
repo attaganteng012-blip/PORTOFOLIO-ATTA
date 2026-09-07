@@ -29,15 +29,6 @@ I enjoy creating websites, experimenting with new technologies, and turning idea
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
 </p>---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>---
-
-🔥 GitHub Streak
-
 🚀 Featured Projects
 
 🌐 Atta Portfolio
