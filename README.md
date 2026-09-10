@@ -1,16 +1,16 @@
 👋 Hi, I'm Atta Alfarizi
 
-💻 Junior Web Developer | Frontend Developer
+💻 Junior Web Developer | Backend Developer
 
 🚀 About Me
 
-I'm a Software Engineering (RPL) student at SMK PGRI Wlingi who is interested in Web Development, especially Frontend Development.
+I'm a Software Engineering (RPL) student at SMK PGRI Wlingi who is interested in Web Development, especially Backend Development.
 
 I enjoy creating websites, experimenting with new technologies, and turning ideas into functional digital projects.
 
 - 🎓 Student at SMK PGRI Wlingi
 - 💻 Major: Software Engineering (RPL)
-- 🎨 Focus: Frontend Development
+- 🎨 Focus: Backend Development
 - 🌱 Currently learning: Web Development & Programming
 - 🚀 Love creating personal projects
 - 📚 Always learning and improving
@@ -69,7 +69,7 @@ My goal is to become a better Web Developer and create websites and applications
 
 📈 Currently Learning
 
-Frontend Development   ███████████████░░░░░ 75%
+Backend Development    ███████████████░░░░░ 75%
 JavaScript             █████████████░░░░░░░ 65%
 Laravel                ███████████░░░░░░░░░ 55%
 Python                 ██████████░░░░░░░░░░ 50%
